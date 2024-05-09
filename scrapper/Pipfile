@@ -1,0 +1,14 @@
+[[source]]
+url = "https://pypi.python.org/simple/"
+verify_ssl = true
+name = "pip_conf_index_global"
+
+[dev-packages]
+
+[packages]
+pymongo = "==3.7.2"
+bs4 = "==0.0.1"
+lxml = "==4.6.0"
+
+[requires]
+python_version = "3.9"

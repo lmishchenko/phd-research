@@ -1,0 +1,13 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[packages]
+django = "==2.1.5"
+django-configurations = "==2.1"
+pymongo = "==3.7.2"
+nltk = "==3.8.1"
+
+[requires]
+python_version = "3.9"
